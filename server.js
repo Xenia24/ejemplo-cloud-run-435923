@@ -91,7 +91,7 @@ http
         <body>
           <!-- Encabezado -->
           <header>
-            <h1>Perfiles Destacados</h1>
+            <h1>Equipo 2</h1>
           </header>
 
           <!-- Contenido Principal -->
