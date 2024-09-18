@@ -1,3 +1,0 @@
-steps:
-- name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', 'gcr.io/cloud-run-435917/myimage506461752495-compute@developer.gserviceaccount.com', '.']
